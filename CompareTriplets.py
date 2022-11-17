@@ -15,4 +15,3 @@ def compareTriplets(a, b):
             continue
     return sumAlice,sumBob
 
-compareTriplets(x,y)
